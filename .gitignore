@@ -20,3 +20,6 @@
 ###< symfony/asset-mapper ###
 
 /finish
+/.idea
+/.idea/php.xml
+
